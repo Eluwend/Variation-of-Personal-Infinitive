@@ -1,0 +1,8 @@
+﻿"corpus","preloaded/pttenten20_fl5"
+"subcorpus","-"
+"concordance size","3"
+"query","Query:[tag=""V.*""][lemma=""para""][lemma=""nós|tu|vós|vocês|eles|elas""] [tag=""V.N.*""] within <doc (genre=""legal"") & (tld=""pt"") />"
+"Reference","Left","KWIC","Right"
+"dgsi.pt","de regresso a casa muito depressa, a ofendida pediu-lhe para conduzir com calma, tendo o arguido retorquido ""isso foi","destinado para nós morrermos","aqui no carro"", no intuito de amedrontar a sua esposa, o que conseguiu. 10. </s><s> Quando chegaram a casa e os filhos do casal"
+"dgsi.pt","de regresso a casa muito depressa, a ofendida pediu-lhe para conduzir com calma, tendo o arguido retorquido ""isso foi","destinado para nós morrermos","aqui no carro"", no intuito de amedrontar a sua esposa, o que conseguiu. 13.Quando chegaram a casa e os filhos do casal"
+"dgsi.pt","veio a acontecer por divergência quanto ao objecto prometido vender e comprar. </s><s> Ancorados em tais elementos fácticos","temos para nós ser","duvidoso que se possa ter como séria, inequívoca, categórica e definitiva a vontade do autor de não pretender celebrar"

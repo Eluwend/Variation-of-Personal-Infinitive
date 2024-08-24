@@ -1,0 +1,6 @@
+﻿"corpus","preloaded/pttenten20_fl5"
+"subcorpus","-"
+"concordance size","1"
+"query","Query:[tag=""V.*""][lemma=""para""][lemma=""nós|tu|vós|vocês|eles|elas""][tag=""V.N.*""] within <doc (genre=""reference/encyclopedia"") & (tld=""pt"") />"
+"Reference","Left","KWIC","Right"
+"mec.pt","todos os dias para ir comprar gomas. </s><s> Eu não, eu trago um dia por semana. </s><s> O meu pai está lá [no Brasil] para trabalhar, não","é para nós gastarmos","tudo. (Entrevista, Mariana, 10 anos) </s><s> e) Solidão </s><s> Quando ando na rua às vezes vejo crianças sozinhas sem ninguém ao pé"
